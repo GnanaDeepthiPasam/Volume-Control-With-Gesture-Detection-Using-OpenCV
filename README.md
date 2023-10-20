@@ -24,3 +24,6 @@ Finally, I make use of pycaw on Windows to control the system volume and integra
 volume could be controlled by two fingers.
 
 ## Demo Video:
+https://github.com/GnanaDeepthiPasam/Volume-Control-With-Gesture-Detection-Using-OpenCV/assets/148503787/bf762d5a-962b-416d-8ea3-3bfed2644ccd
+
+
